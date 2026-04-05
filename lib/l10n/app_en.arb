@@ -1,0 +1,104 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "TOP SPEED",
+  "@appTitle": { "description": "App bar title on the main screen." },
+
+  "sourceGps": "GPS",
+  "@sourceGps": { "description": "GPS speed source chip label." },
+
+  "sourceAccelerometer": "ACCELEROMETER",
+  "@sourceAccelerometer": { "description": "Accelerometer speed source chip label." },
+
+  "labelTopSpeed": "TOP SPEED",
+  "@labelTopSpeed": { "description": "Label for the top-speed stat tile." },
+
+  "labelAvgSpeed": "AVG SPEED",
+  "@labelAvgSpeed": { "description": "Label for the average speed stat tile." },
+
+  "labelDuration": "DURATION",
+  "@labelDuration": { "description": "Label for the session duration stat tile." },
+
+  "btnStart": "START",
+  "@btnStart": { "description": "Start session button." },
+
+  "btnStop": "STOP",
+  "@btnStop": { "description": "Stop session button." },
+
+  "historyTitle": "HISTORY",
+  "@historyTitle": { "description": "History screen app bar title." },
+
+  "historyEmpty": "No sessions yet.\nStart your first session!",
+  "@historyEmpty": { "description": "Placeholder when there are no saved sessions." },
+
+  "sessionEnded": "SESSION ENDED",
+  "@sessionEnded": { "description": "End-session sheet header." },
+
+  "addNote": "ADD A NOTE",
+  "@addNote": { "description": "Label above the comment text field." },
+
+  "noteHint": "e.g. Morning run, downhill section…",
+  "@noteHint": { "description": "Hint text inside the comment field." },
+
+  "btnDiscard": "DISCARD",
+  "@btnDiscard": { "description": "Discard session button." },
+
+  "btnSave": "SAVE",
+  "@btnSave": { "description": "Save session button." },
+
+  "chooseLanguage": "Choose Language",
+  "@chooseLanguage": { "description": "Language picker sheet title." },
+
+  "selectActivity": "SELECT ACTIVITY",
+  "@selectActivity": { "description": "Activity type picker label." },
+
+  "activityRun":   "Run",
+  "activityBike":  "Bike",
+  "activitySki":   "Ski",
+  "activitySurf":  "Surf",
+  "activityOther": "Other",
+
+  "countdownGo": "GO!",
+  "@countdownGo": { "description": "Text shown at the end of the start countdown." },
+
+  "recordsTitle": "RECORDS",
+  "@recordsTitle": { "description": "Personal records screen title." },
+
+  "recordAllTime": "ALL TIME",
+  "@recordAllTime": { "description": "Section header for all-time records." },
+
+  "recordNoData": "No records yet",
+  "@recordNoData": { "description": "Placeholder when no sessions have been saved." },
+
+  "sessionDetailTitle": "SESSION",
+  "@sessionDetailTitle": { "description": "Session detail screen app bar title." },
+
+  "btnShare": "SHARE",
+  "@btnShare": { "description": "Share button label." },
+
+  "alertTitle": "SPEED ALERT",
+  "@alertTitle": { "description": "Speed alert bottom sheet title." },
+
+  "alertOff": "OFF",
+  "@alertOff": { "description": "Speed alert disabled label." },
+
+  "alertHint": "Enter speed to trigger alert",
+  "@alertHint": { "description": "Hint inside the alert speed input field." },
+
+  "alertActive": "ALERT",
+  "@alertActive": { "description": "Label shown when speed alert is active/set." },
+
+  "navTrack":    "Track",
+  "navHistory":  "History",
+  "navRecords":  "Records",
+  "navSettings": "Settings",
+
+  "settingsTitle":       "SETTINGS",
+  "settingsUnits":       "UNITS",
+  "settingsLanguage":    "LANGUAGE",
+  "settingsAlert":       "SPEED ALERT",
+  "settingsAlertOff":    "Off",
+  "settingsAlertActive": "Active",
+  "settingsAbout":       "ABOUT",
+  "settingsVersion":     "Version"
+}

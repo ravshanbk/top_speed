@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter pub:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(flutter gen-l10n:*)",
+      "Bash(rm -f lib/lang.dart lib/settings.dart lib/theme.dart lib/models/activity_type.dart lib/models/session.dart lib/services/speed_service.dart lib/services/storage_service.dart lib/screens/home_screen.dart lib/screens/history_screen.dart lib/screens/records_screen.dart lib/screens/session_detail_screen.dart lib/widgets/end_session_sheet.dart lib/widgets/lang_picker_sheet.dart lib/widgets/session_share_card.dart lib/widgets/speed_alert_sheet.dart lib/widgets/speed_graph.dart)",
+      "Bash(rmdir lib/models lib/services lib/screens lib/widgets)"
+    ]
+  }
+}
